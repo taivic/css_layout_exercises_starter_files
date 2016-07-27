@@ -10,3 +10,22 @@ main {
   margin-left: auto;
   margin-right: auto;
 }
+
+.green,.blue{
+   max-width:50%;
+   max-height:50%;
+	margin-top: 15px;
+	margin-bottom: 15px;
+	
+}
+
+
+.green{
+	float: left;
+	margin-right: 15px;
+}
+
+.blue{
+	float: right;
+	margin-left: 15px;
+}
